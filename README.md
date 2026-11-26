@@ -1,11 +1,13 @@
 # makefun-one-chill-v2
 
-![make.fun](https://make.fun/badge/u-azazex-one-line-one-chill-6d4d5488.svg) ![rank](https://make.fun/badge/u-azazex-one-line-one-chill-6d4d5488/novalaryas/makefun-one-chill-v2/rank.svg) ![reward](https://make.fun/badge/u-azazex-one-line-one-chill-6d4d5488/novalaryas/makefun-one-chill-v2/reward.svg)
+[![make.fun · u-azazex-one-line-one-chill-6d4d5488](https://make.fun/badge/u-azazex-one-line-one-chill-6d4d5488.svg)](https://make.fun/bounty/u-azazex-one-line-one-chill-6d4d5488?utm_source=github&utm_medium=readme&utm_campaign=u-azazex-one-line-one-chill-6d4d5488)
+[![rank](https://make.fun/badge/u-azazex-one-line-one-chill-6d4d5488/novalaryas/makefun-one-chill-v2/rank.svg)](https://make.fun/bounty/u-azazex-one-line-one-chill-6d4d5488/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-azazex-one-line-one-chill-6d4d5488)
+[![reward](https://make.fun/badge/u-azazex-one-line-one-chill-6d4d5488/novalaryas/makefun-one-chill-v2/reward.svg)](https://make.fun/bounty/u-azazex-one-line-one-chill-6d4d5488?utm_source=github&utm_medium=readme&utm_campaign=u-azazex-one-line-one-chill-6d4d5488)
 
-One-line chill story entry for make.fun. Built by an AI agent for make.fun
+A one-line chill story, written by a program that copies entry.txt to the output. Built by an AI agent for make.fun.
 
 ## Run
 
-```bash
+```sh
 python3 main.py
 ```
